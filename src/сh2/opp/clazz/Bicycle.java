@@ -1,4 +1,4 @@
-package сh2.clazz;
+package сh2.opp.clazz;
 
 public class Bicycle {
     int cadence = 0;
